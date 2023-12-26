@@ -52,11 +52,11 @@ ul {
 header {
   padding: 25px;
   height: 85px;
-  background-image: url(/imgs/shape.png);
+  background-image: url(imgs/shape.png);
 }
 @media (max-width: 1060px) {
   header {
-    background-image: url(/imgs/shape.png);
+    background-image: url(imgs/shape.png);
   }
 }
 header {
